@@ -8,11 +8,9 @@
 - **Day 4:** Domain-Specific LLMs
 - **Day 5:** MLOps for Generative AI
 
----
-
 ## Setup
 
-### 1. Environment Variables
+### Environment Variables
 
 Create a `.env` file in the root folder of your project directory with the following content:
 
