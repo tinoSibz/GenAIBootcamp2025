@@ -1,0 +1,4 @@
+[env]
+_.file = '.env'
+PROJECT_DIR = "{{ config_root }}"
+PROJECT_NAME = "{{ config_root | basename }}"
