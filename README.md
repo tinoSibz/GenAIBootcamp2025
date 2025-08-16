@@ -1,4 +1,4 @@
-# 5-Day Generative AI Intensive Course with Google
+# Google: 5-Day Generative AI Intensive Course
 
 ## Agenda
 
